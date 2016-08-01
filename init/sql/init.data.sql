@@ -4,6 +4,8 @@ MySQL - 5.6.16-log : Database - i_wenyiba_com
 *********************************************************************
 */
 
+USE springMVC_mybatis_shiro;
+
 /*所有的表数据插入*/
 
 /*Data for the table `u_permission` */

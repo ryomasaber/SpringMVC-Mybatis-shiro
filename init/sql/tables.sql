@@ -4,6 +4,8 @@ MySQL - 5.6.16-log : Database -
 *********************************************************************
 */
 
+USE springMVC_mybatis_shiro;
+
 /*表结构插入*/
 DROP TABLE IF EXISTS `u_permission`;
 
